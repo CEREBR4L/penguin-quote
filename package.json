@@ -1,0 +1,16 @@
+{
+  "name": "pquote",
+  "version": "1.0.0",
+  "description": "quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.10"
+  }
+}
