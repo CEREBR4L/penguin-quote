@@ -1,4 +1,3 @@
 # Penguin-quote
 
-Get quotes: 
-http://138.68.57.24/quotes
+An API designed for the quotes of the penguin.
